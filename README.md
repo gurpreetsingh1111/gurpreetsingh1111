@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="800" src="https://sm.ign.com/t/ign_in/news/r/relaxing-m/relaxing-music-stream-lofi-girl-just-introduced-a-new-friend_a6r6.1280.jpg">
+<img align="right" alt="Coding" width="1000" src="https://sm.ign.com/t/ign_in/news/r/relaxing-m/relaxing-music-stream-lofi-girl-just-introduced-a-new-friend_a6r6.1280.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreet2512singh&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreet2512singh" /> </p>
 
