@@ -2,7 +2,7 @@
   
 # "(¯´•._.• 𝕘ùＲᵖŕⒺẸ𝓣 𝔰Ｉ𝓃𝔾ђ •._.•´¯)"
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcyber.zc.al)](https://img.shields.io/&up_color=blue&up_message=online&url=https%3A%2F%2Fcyber.zc.al)
-[![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmichaelinzotech&screen_name=michaelinzotech)
+[![Twitter Follow](https://img.shields.io/badge/follow-%40michaelinzotech-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/Gurpree95408151)
 
   
 <div align="center">
