@@ -1,7 +1,6 @@
 <div align="center">
   
 # "(¯´•._.• 𝕘ùＲᵖŕⒺẸ𝓣 𝔰Ｉ𝓃𝔾ђ •._.•´¯)"
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcyber.zc.al)](https://img.shields.io/&up_color=blue&up_message=online&url=https%3A%2F%2Fcyber.zc.al)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40gurpreetsingh-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/Gurpree95408151)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpereet-singh-9836781a5)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/bunny11)
