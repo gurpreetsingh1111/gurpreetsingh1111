@@ -55,8 +55,7 @@
 
 </div>
 
-[website]: https://beacons.ai/michaelinzo
+[website]: https://nexgen.dorik.io/
 [twitter]: https://twitter.com/llmichaelinzoll
-[youtube]: https://www.youtube.com/channel/UCdl0wrFZEO0YkSpQ8QZEQmw?sub_confirmation=1
-[instagram]: https://instagram.com/fxmachinima
-[linkedin]: https://www.linkedin.com/in/michael-inso-90626619a/
+[Kaggle]: https://www.kaggle.com/bunny11
+[linkedin]: https://www.linkedin.com/in/gurpereet-singh-9836781a5
