@@ -16,10 +16,8 @@
 ### I'm a Professional Data Scientist/AI Engineer,. & IT Security enthusiast, Intrapreneur, and Penetration-testing enthusiast, CyberTech & Agent Code-Red @TBW, and also I'm a Ultra-Hardcore Video gamer!
 ### Connect with me:
 [<img align="center" alt="beacons.ai/michaelinzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: blue;" />][website]
-[<img align="center" alt="MiChaelinzo| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: blue;" />][youtube]
-[<img align="center" alt="MiChaelinzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: blue;" />][twitter] 
-[<img align="center" alt="MiChaelinzo| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: blue;" />][linkedin] 
-[<img align="center" alt="MiChaelinzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: blue;"/>][instagram] 
+[<img align="center" alt="gurpreetsingh1111| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: blue;" />][twitter] 
+[<img align="center" alt="gurpreetsingh1111| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: blue;" />][linkedin]  
 </div>
 
 <br />
